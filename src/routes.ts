@@ -11,4 +11,6 @@ export const router = createBrowserRouter([
     path: "/invitation",
     Component: PageFlipInvitation,
   },
-]);
+], {
+  basename: import.meta.env.BASE_URL,
+});
