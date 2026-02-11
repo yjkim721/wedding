@@ -95,11 +95,11 @@ export default function DatePage() {
               유현욱
             </p>
             <a 
-              href="tel:010-9277-9959" 
+              href="tel:010-0000-0000" 
               className="text-gray-500 hover:text-gray-700 transition-colors"
               style={{ fontSize: '0.75rem', fontFamily: "'Noto Serif KR', serif" }}
             >
-              010-9277-9959
+              010-0000-0000
             </a>
           </div>
           
@@ -113,11 +113,11 @@ export default function DatePage() {
               김연재
             </p>
             <a 
-              href="tel:010-2550-7505" 
+              href="tel:010-0000-0000" 
               className="text-gray-500 hover:text-gray-700 transition-colors"
               style={{ fontSize: '0.75rem', fontFamily: "'Noto Serif KR', serif" }}
             >
-              010-2550-7505
+              010-0000-0000
             </a>
           </div>
         </motion.div>

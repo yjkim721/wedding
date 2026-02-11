@@ -80,8 +80,8 @@ export function Map() {
           <div>
             <p className="font-semibold text-gray-800 mb-2">📞 문의</p>
             <p className="leading-relaxed">
-              신랑: 010-9277-9959<br />
-              신부: 010-2550-7505
+              신랑: 010-0000-0000<br />
+              신부: 010-0000-0000
             </p>
           </div>
         </div>

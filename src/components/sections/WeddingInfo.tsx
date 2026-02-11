@@ -96,22 +96,22 @@ export default function WeddingInfo() {
               <p className="text-muted-foreground mb-2" style={{ fontSize: '0.9rem' }}>신랑</p>
               <p className="text-lg text-primary" style={{ fontFamily: "'Noto Serif KR', serif" }}>유현욱</p>
               <a 
-                href="tel:010-9277-9959" 
+                href="tel:010-0000-0000" 
                 className="inline-block mt-2 text-primary/70 hover:text-primary transition-colors"
                 style={{ fontSize: '0.9rem' }}
               >
-                010-9277-9959
+                010-0000-0000
               </a>
             </div>
             <div>
               <p className="text-muted-foreground mb-2" style={{ fontSize: '0.9rem' }}>신부</p>
               <p className="text-lg text-primary" style={{ fontFamily: "'Noto Serif KR', serif" }}>김연재</p>
               <a 
-                href="tel:010-2550-7505" 
+                href="tel:010-0000-0000" 
                 className="inline-block mt-2 text-primary/70 hover:text-primary transition-colors"
                 style={{ fontSize: '0.9rem' }}
               >
-                010-2550-7505
+                010-0000-0000
               </a>
             </div>
           </div>

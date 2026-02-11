@@ -42,11 +42,11 @@ export function Couple() {
                   <span className="text-sm text-gray-500">신랑</span>
                 </div>
                 <a
-                  href="tel:010-9277-9959"
+                  href="tel:010-0000-0000"
                   className="flex items-center gap-2 text-sm text-blue-600 hover:text-blue-700"
                 >
                   <Phone className="w-4 h-4" />
-                  <span>010-9277-9959</span>
+                  <span>010-0000-0000</span>
                 </a>
               </div>
             </div>
@@ -79,11 +79,11 @@ export function Couple() {
                   <span className="text-sm text-gray-500">신부</span>
                 </div>
                 <a
-                  href="tel:010-2550-7505"
+                  href="tel:010-0000-0000"
                   className="flex items-center gap-2 text-sm text-pink-600 hover:text-pink-700"
                 >
                   <Phone className="w-4 h-4" />
-                  <span>010-2550-7505</span>
+                  <span>010-0000-0000</span>
                 </a>
               </div>
             </div>
